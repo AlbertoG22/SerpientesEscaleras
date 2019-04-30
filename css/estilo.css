@@ -1,0 +1,24 @@
+
+body{
+    font: 15px arial;
+    padding: 0;
+    margin: 20px;
+    background: #f4eade;
+}
+h1{
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 50px; 
+}
+aside#lateral{
+    float: right;
+    width: 60%;
+    margin-top: 0;   
+}
+
+#movimientos{
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
